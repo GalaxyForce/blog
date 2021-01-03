@@ -1,0 +1,16 @@
+site_name: devops
+site_description: devops docs
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - 2020: '2020.md'
+markdown_extensions:
+  - admonition
+  - footnotes
+extra:
+  social:
+    - type: 'github'
+      icon: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+      link: https://github.com/galaxyforce
+copyright: copyright &copy; 2021 GalaxyForce
+
