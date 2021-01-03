@@ -4,6 +4,7 @@ theme: readthedocs
 nav:
     - Home: 'index.md'
     - 2020: '2020.md'
+    - Interview: '2020interview.md'
 markdown_extensions:
   - admonition
   - footnotes
