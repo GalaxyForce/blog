@@ -3,6 +3,7 @@
 To be a better man.
 
 To follow the path: 
+
 - Look to the master. 
 - Follow the master. 
 - Walk with the master.
